@@ -1,0 +1,203 @@
+@font-face {
+  font-family: 'icomoon';
+  src: url('icomoon.eot?khdhli');
+  src: url('icomoon.eot?khdhli#iefix') format('embedded-opentype'), url('icomoon.ttf?khdhli') format('truetype'), url('icomoon.woff?khdhli') format('woff'), url('icomoon.svg?khdhli#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-ico-start-input:before {
+  content: "\e900";
+  color: #d6a049;
+}
+
+.icon-ico-rewards:before {
+  content: "\e901";
+  color: #fff;
+}
+
+.icon-ico-reserv:before {
+  content: "\e902";
+  color: #fff;
+}
+
+.icon-ico-regalos .path1:before {
+  content: "\e903";
+  color: rgb(185, 72, 51);
+}
+
+.icon-ico-regalos .path2:before {
+  content: "\e904";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+
+.icon-ico-promosd .path1:before {
+  content: "\e905";
+  color: rgb(57, 161, 174);
+}
+
+.icon-ico-promosd .path2:before {
+  content: "\e906";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+
+.icon-ico-promo:before {
+  content: "\e907";
+  color: #fff;
+}
+
+.icon-ico-prev-black:before {
+  content: "\e908";
+  color: #000;
+}
+
+.icon-ico-pointsev:before {
+  content: "\e909";
+  color: #6d9e3d;
+}
+
+.icon-ico-plus:before {
+  content: "\e90a";
+  color: #fff;
+}
+
+.icon-ico-phone:before {
+  content: "\e90b";
+  color: #fff;
+}
+
+.icon-ico-palomita:before {
+  content: "\e90c";
+  color: #fff;
+}
+
+.icon-ico-next:before {
+  content: "\e90d";
+  color: #fff;
+}
+
+.icon-ico-next-black:before {
+  content: "\e90e";
+  color: #000;
+}
+
+.icon-ico-masinfo:before {
+  content: "\e90f";
+  color: #fff;
+}
+
+.icon-ico-locale:before {
+  content: "\e910";
+  color: #fff;
+}
+
+.icon-ico-gift:before {
+  content: "\e911";
+  color: #fff;
+}
+
+.icon-ico-foresta-input:before {
+  content: "\e912";
+}
+
+.icon-ico-email:before {
+  content: "\e913";
+  color: #5b5b5f;
+}
+
+.icon-ico-current:before {
+  content: "\e914";
+  color: #fff;
+}
+
+.icon-ico-cup-input:before {
+  content: "\e915";
+}
+
+.icon-ico-creditcard:before {
+  content: "\e916";
+  color: #fff;
+}
+
+.icon-ico-credidcard .path1:before {
+  content: "\e917";
+  color: rgb(33, 143, 199);
+}
+
+.icon-ico-credidcard .path2:before {
+  content: "\e918";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+
+.icon-ico-credidcard .path3:before {
+  content: "\e919";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+
+.icon-ico-credidcard .path4:before {
+  content: "\e91a";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+
+.icon-ico-close:before {
+  content: "\e91b";
+}
+
+.icon-ico-cash .path1:before {
+  content: "\e91c";
+  color: rgb(170, 186, 45);
+}
+
+.icon-ico-cash .path2:before {
+  content: "\e91d";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+
+.icon-ico-cama-input:before {
+  content: "\e91e";
+  color: #5b5b5f;
+}
+
+.icon-ico-calendar-input:before {
+  content: "\e91f";
+  color: #666;
+}
+
+.icon-ico-boy-input:before {
+  content: "\e920";
+  color: #666;
+}
+
+.icon-ico-airplane-input:before {
+  content: "\e921";
+}
+
+.icon-ico-adult-input:before {
+  content: "\e922";
+  color: #666;
+}
+
+.icon-ico-addcard-input:before {
+  content: "\e923";
+  color: #fff;
+}
