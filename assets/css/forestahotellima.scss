@@ -18,6 +18,9 @@ body{
 	margin:0;
 	padding: 0;
 }
+img{
+	    width: 100%;
+}
 .box-reservas{
 	margin-top: 10px;
 .hed-box-re{
@@ -417,8 +420,7 @@ position: relative;
 
 		li{
 			padding-top:10px;
-			padding-right: 5px;
-    padding-left: 5px;
+			width: 24%;
         border-right: .5px solid #696969;
         &:last-child{
         	border-right:none;
@@ -435,11 +437,13 @@ position: relative;
 					text-decoration: none;
 				color:#fff;
 				}
-
-			}
-		p{
+				p{
+					font-size:13px;
 
 		}
+
+			}
+		
 		}
 	}
 }
