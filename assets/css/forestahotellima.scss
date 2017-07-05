@@ -498,13 +498,74 @@ position: relative;
 }
 .tiu{
 	h3{
-		font-size:12px;
+		padding-top: 4px;
+    padding-bottom: 4px;
 		    margin: 0;
-    padding: 0;
+    font-size: 15px;
+    text-align: center;
+    background-color:#4d4d4d;
+    color:#fff;
 	}
 	span{
-		font-size: 9px;
+		font-size: 12px;
 	}
 }
+.info-hot,.imgen-ho{
+	float:left;
+}
 
+
+.info-hot {
+    width: 67%;
+}
+.imgen-ho{
+	width: 33%;
+}
+.modyt{
+background-color: #d78b3a;
+    color: #fff;
+
+    position: relative;
+    text-align: left;
+    padding-left: 11px;
+        border-bottom: .3px solid #f2f2f2;
+    .icon-ico-masinfo{
+    &:before {
+    content: "\e910";
+    color: #99989d;
+}
+}
+}
+.you{
+	background-color:#279da5;
+	color:#fff;
+	
+    position: relative;
+    text-align: left;
+    padding-left: 11px;
+    .icon-ico-masinfo{
+    &:before {
+    content: "\e910";
+    color: #99989d;
+}
+}
+}
+.hotels {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.sdaaa{
+	    background: #fff;
+    padding: 7px;
+    position: absolute;
+    top: 0px;
+        right: 0;
+    /* margin-left: 10px; */
+}
+.icon-ico-addcard-input:before {
+    content: "\e924";
+    color: #fff;
+    font-size: 18px;
+    line-height: 19px;
+}
 

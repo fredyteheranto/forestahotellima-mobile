@@ -48,7 +48,6 @@ $(document).ready(function() {
     var Anos = sale.substring(9, 14);
     console.log(Dia + '----' + Mes + '----' + Ano);
     $('.resultado').show().animate({
-      height: '340px',
       opacity: '1'
     }, 'slow');
     $('.reservas').hide().animate({
